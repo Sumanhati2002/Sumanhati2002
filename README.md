@@ -8,10 +8,6 @@
   Building <b>scalable</b>, <b>secure</b>, and <b>high-performance</b> mobile applications
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me

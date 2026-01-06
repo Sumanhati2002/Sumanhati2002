@@ -15,7 +15,7 @@
 Flutter Developer with **3+ years of experience** building **medical** and
 **e-commerce** applications used in real-world production environments.
 
-I specialize in **Flutter, Dart, MVVM architecture, Provider, and BLoC**, with
+I specialize in **Flutter, Dart, MVVM architecture, Clean architecture, Provider, and BLoC**, with
 strong hands-on experience in **REST API integration**, **Firebase**, and
 complete **Play Store & App Store deployments**.
 
@@ -45,6 +45,7 @@ I focus on **clean architecture, performance optimization, and reliability**.
 ![MVVM](https://img.shields.io/badge/MVVM-111111?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-4CAF50?style=for-the-badge)
 ![BLoC](https://img.shields.io/badge/BLoC-5A2D82?style=for-the-badge)
+![Clean Architechture](https://img.shields.io/badge/MVVM-111111?style=for-the-badge)
 
 ### 🔌 Backend & Storage
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)

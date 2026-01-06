@@ -60,6 +60,17 @@ I focus on **clean architecture, performance optimization, and reliability**.
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira)
 
 ---
+## 🚀 App Deployment
+
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+
+- Deployed Flutter applications to **Google Play Store** and **Apple App Store**
+- Managed **release & production builds**
+- Handled **app signing, keystore, certificates & provisioning profiles**
+- Configured **versioning, build flavors & environments**
+- Resolved **Play Store & App Store review issues**
+---
 
 ## 📱 Featured Projects
 

@@ -89,10 +89,10 @@ I focus on **clean architecture, performance optimization, and reliability**.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Sumanhati2002">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/suman-hati-005655200/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:hatisuman2002@gmail.com">
